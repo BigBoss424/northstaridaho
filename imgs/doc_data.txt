@@ -1,0 +1,418 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20150902134354-07'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20150902134354-07'00'
+InfoBegin
+InfoKey: Author
+InfoValue: Candi Bussiere
+InfoBegin
+InfoKey: Creator
+InfoValue: Adobe Acrobat Pro 10.1.14
+InfoBegin
+InfoKey: Producer
+InfoValue: Adobe Acrobat Pro 10.1.14
+PdfID0: c0730d477eceee47b55bea77ba2ed73c
+PdfID1: f8b10ccd2e7a6d44bfa4a389c7bdd57d
+NumberOfPages: 32
+BookmarkBegin
+BookmarkTitle: pg 1 cover
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: pg 2 rex grace insurance ad
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: pg 3 gentiva ad
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: pg 4 welcome home
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: pg 5 table of content
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: pg 6 medman-article
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: pg 7 hearing aid
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: pg 8 hospice of NI article
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: pg 9 hospice ad
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: pg 10  rex grace article-max medicar benifit
+BookmarkLevel: 1
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: pg 11 bell tower-ad
+BookmarkLevel: 1
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: pg 12 hospice of NI article
+BookmarkLevel: 1
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: pg 13 coco ad
+BookmarkLevel: 1
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: pg 14 wytychakelderlaw.com
+BookmarkLevel: 1
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Slide Number 1
+BookmarkLevel: 2
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: pg 15 homewatch
+BookmarkLevel: 1
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: pg 16 welcome home
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: pg 17 welcome home
+BookmarkLevel: 1
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Page 2
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: pg 18 elder law
+BookmarkLevel: 1
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: pg 19 home health- stoddard
+BookmarkLevel: 1
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: pg 20 Wizard of Oz
+BookmarkLevel: 1
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: pg 21 more affordable
+BookmarkLevel: 1
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Page 3
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: pg 22 gentiva article
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Page 2
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: pg 23 meet coco jensen
+BookmarkLevel: 1
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: pg 24 elder law2- cd'a
+BookmarkLevel: 1
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Page 2
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: pg 25 10 questions
+BookmarkLevel: 1
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: pg 26 bell tower article
+BookmarkLevel: 1
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: pg 27 crossword puzzle
+BookmarkLevel: 1
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: pg 28 Life care article
+BookmarkLevel: 1
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: pg 29 Life care article-fishing
+BookmarkLevel: 1
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Page 2
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: pg 30 renee - quiz
+BookmarkLevel: 1
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: pg 31 medman-fullpagead ad
+BookmarkLevel: 1
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: pg 32 life care center
+BookmarkLevel: 1
+BookmarkPageNumber: 32
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 576 774
+PageMediaDimensions: 576 774
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 576 774
+PageMediaDimensions: 576 774
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 810
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 654 834
+PageMediaDimensions: 654 834
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 576 774
+PageMediaDimensions: 576 774
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 576 774
+PageMediaDimensions: 576 774
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: -9 -9 585 783
+PageMediaDimensions: 594 792
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 576 774
+PageMediaDimensions: 576 774
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 576 774
+PageMediaDimensions: 576 774
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 576 774
+PageMediaDimensions: 576 774
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 648 828
+PageMediaDimensions: 648 828
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 576 774
+PageMediaDimensions: 576 774
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 576 774
+PageMediaDimensions: 576 774
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: -18 -18 594 792
+PageMediaDimensions: 612 810
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 672 852
+PageMediaDimensions: 672 852
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 810
+PageMediaDimensions: 612 810
