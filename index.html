@@ -10,7 +10,7 @@
 <meta name="robots" content="index, follow"/>
 <meta name="keywords" content="North Idaho Star; Magazines; Magazine; Publication" />
 <meta name="rights" content="North Idaho Star"/>
-<meta name="description" content="North Idaho Star; Magazines; Magazine;"/>
+<meta name="description" content="North Idaho Star; Magazines; Magazine"/>
 <meta name="generator" content="" />
 
 <script type="text/javascript" src=js/jquery2.1/jquery.js></script>
@@ -21,72 +21,46 @@
 <link type="text/css" rel="stylesheet" href="css/magazine.css"></link>
 <script type="text/javascript" src="js/turn.js"></script>
 <script type="text/javascript" src="js/turn.min.js"></script>
-<script type="text/javascript">
-			
-		(function () {
-		    'use strict';
 
-		    var module = {
-		        ratio: 1.38,
-		        init: function (id) {
-		            var me = this;
+<!-- Sound Effect for page turning-->
+<script>
+var html5_audiotypes={ //define list of audio file extensions
+"mp3": "audio/mpeg",
+"ogg": "audio/ogg",
+"wav": "audio/wav",
+}
+function createsoundbite(sound){
+var html5audio=document.createElement('audio')
+if (html5audio.canPlayType){ //check support for HTML5 audio
+for (var i=0; i<arguments.length; i++){
+var sourceel=document.createElement('source')
+sourceel.setAttribute('src', arguments[i])
+if (arguments[i].match(/.(\w+)$/i))
+sourceel.setAttribute('type', html5_audiotypes[RegExp.$1])
+html5audio.appendChild(sourceel)
+}
+html5audio.load()
+html5audio.playclip=function(){
+html5audio.pause()
+html5audio.currentTime=0
+html5audio.play()
+}
+return html5audio
+}
+else{
+return {playclip:function(){throw new Error("Your browser doesn't support HTML5 audio unfortunately")}}
+}
+}
+//Initialize sound clips with 1 fallback file each:
+var flip=createsoundbite("audio/pageturn.wav")
+</script>
 
-		            // if older browser then don't run javascript
-		            if (document.addEventListener) {
-		                this.el = document.getElementById(id);
-		                this.resize();
-		                this.plugins();
 
-		                // on window resize, update the plugin size
-		                window.addEventListener('resize', function (e) {
-		                    var size = me.resize();
-		                    $(me.el).turn('size', size.width, size.height);
-		                });
-		            }
-		        },
-		        resize: function () {
-		            // reset the width and height to the css defaults
-		            this.el.style.width = '';
-		            this.el.style.height = '';
-
-		            var width = this.el.clientWidth,
-		                height = Math.round(width / this.ratio),
-		                padded = Math.round(document.body.clientHeight * 0.9);
-
-		            // if the height is too big for the window, constrain it
-		            if (height > padded) {
-		                height = padded;
-		                width = Math.round(height * this.ratio);
-		            }
-
-		            // set the width and height matching the aspect ratio
-		            this.el.style.width = width + 'px';
-		            this.el.style.height = height + 'px';
-
-		            return {
-		                width: width,
-		                height: height
-		            };
-		        },
-		        plugins: function () {
-		            // run the plugin
-		            $(this.el).turn({
-		                gradients: true,
-		                acceleration: true
-		            });
-		            // hide the body overflow
-		            document.body.className = 'hide-overflow';
-		        }
-		    };
-
-		    module.init('book');
-		}());
-		</script>
 </head>
 
 	<body>
 			<div class="made">
-			Tap the page to zoom in <br />
+			Use the corners to turn the page<br />
 			</div>
 			<div class="t">
 				<div class="tc rel">
@@ -222,6 +196,8 @@
 					</div>
 				</div>
 			</div>
+
+			
 		<script type="text/javascript">
 			(function () {
 			    'use strict';
@@ -278,8 +254,17 @@
 			            document.body.className = 'hide-overflow';
 			        }
 			    };
+			    
+			     $(#'book').turn(
+			    {
+			    	when:{
+			    		turning:function(){flip.playclip();}
+			    	}
+			    });
 
 			    module.init('book');
+
+			   
             }());
 		</script>
 	</body>
